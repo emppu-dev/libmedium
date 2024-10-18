@@ -59,6 +59,7 @@ business.
 | https://medium.hostux.net                                                 | France  | Gandi      | [hostux](https://hostux.net)           |
 | https://r.sudovanilla.org                                                 | US      | Selfhosted | [SudoVanilla](https://sudovanilla.org) |
 | https://libmedium.ducks.party                                             | DE      | Datalix    | [ducks.party](https://ducks.party)     |
+| https://lm.bunk.lol                                                       | IS      | 1984       | [bunk.lol](https://bunk.lol)           |
 ## Deploy
 
 1. Grab [`./config/default.toml`](./config/default.toml) and make
